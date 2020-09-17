@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Kritsanaphat\source\repos\week6-1\week6-1\Source.cpp(36,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kritsanaphat\source\repos\week6-1\week6-1\Source.cpp(37,8): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  week6-1.vcxproj -> C:\Users\Kritsanaphat\source\repos\week6-1\Debug\week6-1.exe
